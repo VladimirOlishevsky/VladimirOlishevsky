@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Front-end developer, enthusiastic about new technologies and passionate about JavaScript and its entire ecosystem
+
 <!--
 **VladimirOlishevsky/VladimirOlishevsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
