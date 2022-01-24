@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Vladimir
 
 Front-end developer, enthusiastic about new technologies and passionate about JavaScript and its entire ecosystem
 
