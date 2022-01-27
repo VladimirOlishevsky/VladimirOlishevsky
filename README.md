@@ -1,8 +1,8 @@
-### Hi there 👋 My name is Vladimir
+### Hi there 👋
 
 Front-end developer, enthusiastic about new technologies and passionate about JavaScript and its entire ecosystem
 
-- 🔭 I prefer to code in TypeScript, React, and JavaScript
+- 🔭 I prefer to code in TypeScript and React
 - 🌱 Worlwide available
 - 📧 How to reach me: ```telegram``` @VladimirOlishevsky or vladimir.olishevsky@gmail.com  
 
