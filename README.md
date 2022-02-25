@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 My name is Vladimir Olishevsky
 
-Front-end developer, enthusiastic about new technologies and passionate about JavaScript and its entire ecosystem
+I'm Front-end developer, enthusiastic about new technologies and passionate about JavaScript and its entire ecosystem
 
 - 🔭 I prefer to code in TypeScript and React
 - 🌱 Worlwide available
