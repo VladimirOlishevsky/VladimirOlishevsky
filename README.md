@@ -1,4 +1,4 @@
-### Hi there <img src="https://media1.tenor.com/images/f88ee476d2f653b9cbc5a7b95acbd265/tenor.gif?itemid=11366012" width="24px"> My name is Vladimir Olishevsky
+### Hi there <img src="https://media1.tenor.com/images/f88ee476d2f653b9cbc5a7b95acbd265/tenor.gif?itemid=11366012" width="24px" height="24px"> My name is Vladimir Olishevsky
 
 I'm Front-end developer, enthusiastic about new technologies and passionate about JavaScript and its entire ecosystem
 
