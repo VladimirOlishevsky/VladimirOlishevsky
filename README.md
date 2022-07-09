@@ -7,3 +7,5 @@ I'm Front-end developer, enthusiastic about new technologies and passionate abou
 - 📧 How to reach me: ```telegram:``` [@VladimirOlishevsky](https://t.me/VladimirOlishevsky) or ```mail:``` vladimir.olishevsky@gmail.com  
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirOlishevsky&layout=compact&hide=html" alt="onedebos" >
+
+![snake gif](https://github.com/VladimirOlishevsky/VladimirOlishevsky/blob/output/github-contribution-grid-snake.gif)
